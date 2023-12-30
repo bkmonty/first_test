@@ -1,0 +1,3 @@
+sudo cd /home/ubuntu
+mkdir demo
+cd demo/touch demo_file
