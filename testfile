@@ -1,3 +1,4 @@
 sudo cd /home/ubuntu
 mkdir demo
-cd demo/touch demo_file
+cd /home/ubuntu/demo/
+touch demo_file
