@@ -1,4 +1,1 @@
-sudo cd /home/ubuntu
-mkdir demo
-cd /home/ubuntu/demo/
-touch demo_file
+
